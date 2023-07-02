@@ -1,1 +1,2 @@
-- All sources from www.DataCamp.com
+- 모든 Cheat Sheet는 www.DataCamp.com 에서 찾을 수 있습니다.
+- Cheat Sheet에 명시된 핵심 기능 중심으로 학습할 것을 권장합니다. 
